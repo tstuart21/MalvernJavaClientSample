@@ -1,0 +1,1 @@
+java -cp C:\path\to\msssocket.jar msssocket
